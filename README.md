@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jenny 👋
 
-<!--
-**jkrause-data/jkrause-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a background in PMO, reporting and project management.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Passionate about Data Analytics, Business Analytics and Reporting
+* 💼 More than 20 years of experience in project support, PMO and business processes
+* 🗄️ Working with SQL (PostgreSQL), Power BI and basic Python for data analysis and reporting
+* 📈 Interested in data-driven decision making and business analytics
+* 🌱 Continuously expanding my skills in data analysis, data modelling and visualization
+
+## Skills
+
+* SQL (PostgreSQL)
+* Power BI
+* Python (Basics)
+* Data Modelling
+* ETL & Data Preparation
+* MongoDB
+* AWS Fundamentals
+* Microsoft Excel
+
+## Projects
+
+* Olympic Athlete Analytics
+* Supply Chain Analytics
+* Python Learning Projects
+
+## Connect with Me
+
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/jenny-krause-data-analystin/)
